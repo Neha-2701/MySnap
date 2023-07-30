@@ -7,6 +7,9 @@
 
 ### MySnap App is build using Web Technologies such as HTML, CSS.
 ### Some features of this project are -
+  - You can access Camera options from the UI.
+  - All the pictures and video will be stored in indexDB.
+  - You can delete or edit the pictures.
 
 
 
@@ -15,6 +18,9 @@
 ## Frontend:
 - Programming Language: Javascript
 - IDE: VScode
+
+## DataBase:
+- IndexDb
 
 
 
